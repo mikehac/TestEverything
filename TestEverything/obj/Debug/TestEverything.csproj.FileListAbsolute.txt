@@ -1,0 +1,5 @@
+C:\Users\Mike\Documents\GitHub\TestEverything\TestEverything\bin\TestEverything.dll
+C:\Users\Mike\Documents\GitHub\TestEverything\TestEverything\bin\TestEverything.pdb
+C:\Users\Mike\Documents\GitHub\TestEverything\TestEverything\obj\Debug\TestEverything.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\TestEverything\TestEverything\obj\Debug\TestEverything.dll
+C:\Users\Mike\Documents\GitHub\TestEverything\TestEverything\obj\Debug\TestEverything.pdb
